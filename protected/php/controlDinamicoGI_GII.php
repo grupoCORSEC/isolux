@@ -154,7 +154,7 @@ session_start();
 														echo '<td>'.$fechaHoraFinal_R2a.'</td>';
 														// echo '<td class="text-left">'.$dirEmpresa_R3a.'</td>';
 														echo '<td class="text-left">'.$usrNombre_R2a.'</td>';
-														echo '<td class="text-left"><a href="../impreR03/enviarResultados.aspx?correoCrypt_R3a='.$codeMd5_R2a.'">Imprimir</a></td>';
+														echo '<td class="text-left"><a href="../impreR02/enviarResultados.aspx?correoCrypt_R2a='.$codeMd5_R2a.'">Imprimir</a></td>';
 														echo '</tr>';
 													}
 

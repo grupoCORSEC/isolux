@@ -1410,21 +1410,21 @@ echo '
 							<br>
 							<table>
 								<tr>
-									<td colspan="2" style="width: 220px; font-size: .8em;"><b>Copia Digital</b></td>
-									<td colspan="2" style="width: 190px; font-size: .8em;"><b>Georreferenciación del levantamiento</b></td>
+									<td colspan="2" style="width: 190px; font-size: .8em;"><b>Copia Digital</b></td>
+									<td colspan="2" style="width: 210px; font-size: .8em;"><b>Georreferenciación del levantamiento</b></td>
 								</tr>
 								<tr>
 									<td>
 										<img src="soloqr.php?txtQr=http://corsec.com.mx/'.$empresa_R2a.'/impreR02/enviarResultados.aspx?correoCrypt_R2a='.$codeMd5_R2a.'" style="width: 75px;" />
 									</td>
 									<td>
-										<p style="width: 220px;font-size: .8em;">http://corsec.com.mx/'.$empresa_R2a.'<br/>/impreR02/enviarResultados.aspx?<br/>correoCrypt_R2a=<br/>'.$codeMd5_R2a.'</p>
+										<p style="width: 190px;font-size: .6em;">http://corsec.com.mx/'.$empresa_R2a.'<br/>/impreR02/enviarResultados.aspx?<br/>correoCrypt_R2a=<br/>'.$codeMd5_R2a.'</p>
 									</td>
 									<td>
 										<img src="soloqr.php?txtQr=https://www.google.com.mx/maps/@'.$gpsd.',18z" style="width: 75px;" />
 									</td>
 									<td>
-										<p style="width: 190px; font-size: .8em;">https://www.google.com.mx/maps/<br/>@'.$gpsd.',18z</p>
+										<p style="width: 210px; font-size: .6em;">https://www.google.com.mx/maps/<br/>@'.$gpsd.'<br/>,18z</p>
 									</td>
 								</tr>
 							</table>
